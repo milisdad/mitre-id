@@ -1,2 +1,1 @@
 # mitre-id
-# mitre-id
